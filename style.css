@@ -18,7 +18,7 @@ header {
     background: #212121;
     border-bottom: 3px solid #ff6347;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    position: sticky;
+    position: grid;
     top: 0;
     z-index: 1000;
 }
